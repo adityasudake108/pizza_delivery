@@ -20,9 +20,6 @@ Go to link
 control + click
 
 
-#User
-gmail: girish@gmail.com
-pass: #Girish2002
 
 #Admin
 
